@@ -490,10 +490,13 @@
         font-size: 2rem;
       }
 
-      .team-gallery {
-        width: 100%;
-        height: auto;
-      }
+    .team-gallery {
+      width: 80%;
+      padding-top: 80%; 
+      height: 200px;
+      position: relative;
+    }
+
 
       .event-card img {
         height: 250px;
